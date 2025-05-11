@@ -38,5 +38,5 @@ Data Balancing
 - Visualize feature importance and placement trends
 
   Author
-- **Md. Alfahim**  
+- **Alfahim**  
   GitHub: [alfahim021](https://github.com/alfahim021)
