@@ -32,14 +32,6 @@ Data Balancing
 - R (base, dplyr, skimr)
 - Git/GitHub for version control
 
-Project Structure
-```
-├── Placement_Data_Full_Class.csv
-├── Project Details.pdf
-├── preprocessing_script.R
-└── README.md
-```
-
   Next Steps
 - Build predictive models (e.g., logistic regression, decision trees)
 - Evaluate performance using accuracy, precision, recall, F1-score
